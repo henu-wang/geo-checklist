@@ -6,6 +6,14 @@ An interactive, browser-based checklist to evaluate whether your website is read
 
 **[Open the Interactive Checklist](https://henu-wang.github.io/geo-checklist/)**
 
+## Online Tools
+
+Automate this checklist with free online tools — no installation needed:
+
+- **[Full GEO Scan](https://geoscoreai.com)** — Run all 27 checks automatically and get actionable recommendations
+- **[AI Robots.txt Generator](https://geoscoreai.com/tools/robots-txt-generator)** — Generate an optimized robots.txt for AI crawlers
+- **[AI Crawler Access Checker](https://geoscoreai.com/tools/ai-crawler-checker)** — Check if AI search engines can access your site
+
 ## What It Checks
 
 The checklist covers 27 items across 6 categories:
