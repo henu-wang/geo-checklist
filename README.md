@@ -17,6 +17,10 @@ The checklist covers 27 items across 6 categories:
 5. **E-E-A-T & Authority** — Author credentials, citations, freshness
 6. **Citation Optimization** — Quotable content, comparisons, how-tos
 
+## Real-World Example
+
+See a fully GEO-optimized site in action: [KeepRule](https://keeprule.com) — an investment education platform that implements all 27 checklist items including llms.txt, comprehensive JSON-LD schemas (Article, FAQ, Quiz, BreadcrumbList), SSR, hreflang, and AI-optimized content structure.
+
 ## Want an Automated Scan?
 
 For a comprehensive, automated GEO audit, use [GEOScore](https://geoscoreai.com) — it runs 11 technical checks and provides actionable recommendations.
